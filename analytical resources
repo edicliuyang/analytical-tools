@@ -3,4 +3,6 @@ Single cell best practices:
 Awesome single cell: 
   https://github.com/seandavi/awesome-single-cell#copy-number-analysis
 Volcano plot:
-https://rpubs.com/qshenfeng/sc_volcanoplot
+  https://rpubs.com/qshenfeng/sc_volcanoplot
+Differential expression testing
+  https://satijalab.org/seurat/articles/de_vignette.html
